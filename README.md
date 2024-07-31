@@ -6,5 +6,7 @@ The Python script is also added to convert the mesh file (.off format) file to p
 
 The S3DIS dataset can be downloaded from this link (https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1)
 
+Data visualizer is also added to visualize the data
+
 Impimented using Python 3.11.8
 Pytorch 2.2.1, with CUDA 11.8
